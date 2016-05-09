@@ -65,7 +65,7 @@ namespace Solra
 
             DynamicGrid.Children.Add(TLC1);
 
-            //TileLayoutControl TLC2 = new TileLayoutControl();
+            TileLayoutControl TLC2 = new TileLayoutControl();
             //TileLayoutControl TLC3 = new TileLayoutControl();
             //TileLayoutControl TLC4 = new TileLayoutControl();
 
