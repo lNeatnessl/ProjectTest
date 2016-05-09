@@ -82,7 +82,7 @@ namespace Solra
             TileLayoutControl test22 = new TileLayoutControl();
 
 
-
+            //Test다 
 
 
             //DynamicGrid.Children.Add(TLC2);
