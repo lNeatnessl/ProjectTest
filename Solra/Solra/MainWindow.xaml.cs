@@ -79,7 +79,7 @@ namespace Solra
             //Grid.SetRow(TLC4, 1);
             //Grid.SetRowSpan(TLC4, 2);
             //Grid.SetColumnSpan(TLC4, 3);
-
+            TileLayoutControl test22 = new TileLayoutControl();
 
 
 
