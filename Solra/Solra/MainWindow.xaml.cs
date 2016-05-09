@@ -65,12 +65,12 @@ namespace Solra
 
             DynamicGrid.Children.Add(TLC1);
 
-            //TileLayoutControl TLC2 = new TileLayoutControl();
-            //TileLayoutControl TLC3 = new TileLayoutControl();
-            //TileLayoutControl TLC4 = new TileLayoutControl();
+            TileLayoutControl TLC2 = new TileLayoutControl();
+            TileLayoutControl TLC3 = new TileLayoutControl();
+            TileLayoutControl TLC4 = new TileLayoutControl();
 
             //Grid.SetRow(TLC1, 0);
-            
+
             //Grid.SetRow(TLC2, 0);
             //Grid.SetColumn(TLC2, 1);
             //Grid.SetRow(TLC3, 2);
@@ -79,11 +79,11 @@ namespace Solra
             //Grid.SetRowSpan(TLC4, 2);
             //Grid.SetColumnSpan(TLC4, 3);
 
-            
 
-            
 
-            
+
+
+
             //DynamicGrid.Children.Add(TLC2);
             //DynamicGrid.Children.Add(TLC3);
             //DynamicGrid.Children.Add(TLC4);
