@@ -69,6 +69,7 @@ namespace Solra
             //TileLayoutControl TLC3 = new TileLayoutControl();
             //TileLayoutControl TLC4 = new TileLayoutControl();
 
+            TileLayoutControl Test = new TileLayoutControl();
             //Grid.SetRow(TLC1, 0);
             
             //Grid.SetRow(TLC2, 0);
